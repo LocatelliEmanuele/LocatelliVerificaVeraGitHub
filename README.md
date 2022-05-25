@@ -1,0 +1,2 @@
+# LocatelliVerificaVeraGitHub
+localoca
